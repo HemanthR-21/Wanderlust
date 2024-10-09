@@ -124,6 +124,13 @@ body{
 }
 
 /* navbar */
+
+.navbar-collapse {
+    background-color: white;
+    z-index: 9999;
+    position: relative;
+}
+
 .search-btn {
     background-color: #fe424d;
     color: white;
